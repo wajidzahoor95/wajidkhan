@@ -352,12 +352,6 @@ img {
 }
 
 /* ===== prcticeprajects =====*/
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
 .pp__container {
   row-gap: 2rem;
 }
